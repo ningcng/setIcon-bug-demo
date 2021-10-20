@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "setIcon",
+    "version": "0.0.1",
+    "description": "setIcon bug demo",
+    "browser_action": {
+        "default_title": "setIcon bug demo"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
